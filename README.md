@@ -1,4 +1,4 @@
-# Introdução a Progamação Orientada a Objetos
+# Introdução a Programação Orientada a Objetos
 - Exercícios de Python da disciplina de POO UFSC
 - Módulo 1: Turtle
 - Módulo 2: Sequential
